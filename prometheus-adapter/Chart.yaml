@@ -1,0 +1,5 @@
+apiVersion: v2
+name: promethus-adapter
+description: A Helm chart for Kubernetes and installing the Prometheus adapter.
+type: application
+version: 0.1.0
